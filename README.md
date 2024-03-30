@@ -69,3 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Zomato-Clone
+# Blog https://moonabid786.medium.com/deploying-zomato-clone-app-with-devsecops-ci-cd-23760d588bfe
